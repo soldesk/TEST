@@ -5,3 +5,4 @@ class Birth{}
 class 오늘{}
 class 삼겹살데이{}
 class 삼겹살데이33333{}
+class 자준이형티모ㄴㄴ{}
